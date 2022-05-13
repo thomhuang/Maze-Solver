@@ -20,8 +20,8 @@ Where the keybinds for the game are:
 
 Below displays an example populated grid and depth-first search performed on the same grid:
 
-!(img/maze1.png?raw=true)
+![](/img/maze1.png?raw=true)
 
-!(img/solved_maze1.png?raw=true)
+![](/img/solved_maze1.png?raw=true)
 
  
